@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect11"
+         width="165.36557"
+         height="81.710938"
+         x="63.304749"
+         y="-7.631557"
+         ry="0.51801103"
+         transform="rotate(47.945933)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect12"
+         width="165.36557"
+         height="81.710938"
+         x="63.304749"
+         y="-7.631557"
+         ry="0.51801103"
+         transform="rotate(47.945933)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect13"
+         width="165.36557"
+         height="81.710938"
+         x="63.304749"
+         y="-7.631557"
+         ry="0.51801103"
+         transform="rotate(47.945933)" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer1">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="circle1"
+       cx="105"
+       cy="105"
+       r="47.150066"
+       clip-path="url(#clipPath13)"
+       transform="matrix(1.1813419,0,0,1.1813419,1.731517,-12.254167)" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="circle1-5"
+       cy="99.88195"
+       cx="90.368584"
+       ry="61.076408"
+       rx="61.502884"
+       clip-path="url(#clipPath12)"
+       transform="matrix(1.1813419,0,0,1.1813419,1.731517,-12.254167)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 72.035357,71.28856 53.637544,50.894151"
+       id="path1"
+       clip-path="url(#clipPath11)"
+       transform="matrix(1.1813419,0,0,1.1813419,1.731517,-12.254167)" />
+  </g>
+</svg>
